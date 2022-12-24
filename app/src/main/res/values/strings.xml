@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biostat</string>
+    <string name="welcome_to_n_bio_stat">Welcome to \n Bio_Stat</string>
+    <string name="info">enter your birthdate</string>
+    <string name="title">welcome to biostat</string>
+    <string name="enter_your_age" />
+    <string name="enter_your_name">Name</string>
+    <string name="confirm">Confirm</string>
+</resources>
